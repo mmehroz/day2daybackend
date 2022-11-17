@@ -37,11 +37,6 @@ php artisan db:seed
 After completing the migration and seeding of db, you will have a user ready for login in this project.
 
 
-Admin:
-
-Email: admin@gmail.com
-
-Pass: admin123
 
 
 Finally we are ready to run our project using this command
@@ -50,6 +45,6 @@ Finally we are ready to run our project using this command
 php artisan serve
 ```
 
-Author: Zeeshan Ahmed Khan.
+Author: Muhammad Mehroz
 
-Design And Developed By Mrm-Soft
+Design And Developed For Mrm-Soft
