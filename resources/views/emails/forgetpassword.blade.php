@@ -1,0 +1,1 @@
+<p>{{$verify_token}}</p>
